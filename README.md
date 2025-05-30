@@ -8,7 +8,7 @@ This repository is a curated collection of MATLAB and SPSS programs, encompassin
 > MATLAB is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages
 
 
-- Basic Mathematical Computing - [View](./mathematics_computing.pdf)
+- Basic Mathematical Computation - [View](./mathematics_computing.pdf)
 - Differential Equation and Its Solution - [View](./differential_equations.pdf)
 - Scientific Computation - [View](./scientific_computing_complete.pdf)
 - Stochastic Processes - [View](./stochastic_processes.pdf)
