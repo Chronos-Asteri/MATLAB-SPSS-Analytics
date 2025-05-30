@@ -2,6 +2,8 @@
 
 This repository is a curated collection of MATLAB and SPSS programs, encompassing a range of statistical techniques and data manipulation tasks. It contains the programs and experiments I developed as part of my academic coursework, offering practical solutions for researchers, analysts, and students
 
+> The programs are documented and provided as individual PDF files, with links available below.
+
 ## MATLAB
 
 > [!IMPORTANT]
